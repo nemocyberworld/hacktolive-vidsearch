@@ -1,0 +1,750 @@
+{
+  "general": [
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/results?search_query=",
+      "color": "text-red-600",
+      "desc": "The largest video platform with tutorials on nearly everything."
+    },
+    {
+      "name": "Dailymotion",
+      "url": "https://www.dailymotion.com/search/",
+      "color": "text-gray-800",
+      "desc": "Alternative to YouTube with professional & user content."
+    },
+    {
+      "name": "Vimeo",
+      "url": "https://vimeo.com/search?q=",
+      "color": "text-blue-500",
+      "desc": "High-quality videos, creative works, and tutorials."
+    },
+    {
+      "name": "Veoh",
+      "url": "https://www.veoh.com/find/?query=",
+      "color": "text-indigo-600",
+      "desc": "Long-form videos including lectures & tutorials."
+    },
+    {
+      "name": "Metacafe",
+      "url": "https://www.metacafe.com/",
+      "color": "text-yellow-600",
+      "desc": "Classic short-form platform with how-to content."
+    },
+    {
+      "name": "Yahoo! Screen (Archive)",
+      "url": "https://screen.yahoo.com/",
+      "color": "text-purple-600",
+      "desc": "Legacy video hosting site from Yahoo with mixed content."
+    },
+    {
+      "name": "Vevo",
+      "url": "https://www.youtube.com/user/vevo",
+      "color": "text-pink-600",
+      "desc": "Official music video platform hosting artists\u2019 channels."
+    },
+    {
+      "name": "Facebook Watch",
+      "url": "https://www.facebook.com/watch/search/?q=",
+      "color": "text-blue-700",
+      "desc": "Videos, shows, and tutorials shared on Facebook."
+    },
+    {
+      "name": "Instagram Video (Reels/IGTV)",
+      "url": "https://www.instagram.com/explore/search/keyword/?q=",
+      "color": "text-pink-500",
+      "desc": "Short and long-form tutorials, reels, and guides."
+    },
+    {
+      "name": "TikTok",
+      "url": "https://www.tiktok.com/search?q=",
+      "color": "text-black",
+      "desc": "Massive short-form video platform with DIY tutorials."
+    },
+    {
+      "name": "Snapchat Spotlight",
+      "url": "https://www.snapchat.com/spotlight",
+      "color": "text-yellow-500",
+      "desc": "User-generated short video tutorials and trends."
+    },
+    {
+      "name": "X (Twitter) Video",
+      "url": "https://twitter.com/search?q=",
+      "color": "text-blue-400",
+      "desc": "Trending video tutorials and guides shared via posts."
+    },
+    {
+      "name": "Triller",
+      "url": "https://triller.co/search?q=",
+      "color": "text-red-500",
+      "desc": "Music + tutorial short video platform, alternative to TikTok."
+    },
+    {
+      "name": "Likee",
+      "url": "https://likee.video/search?q=",
+      "color": "text-purple-500",
+      "desc": "Global short video app with DIY and tutorial content."
+    },
+    {
+      "name": "Rumble",
+      "url": "https://rumble.com/search/video?q=",
+      "color": "text-green-700",
+      "desc": "Alternative platform hosting tutorials and general content."
+    },
+    {
+      "name": "Clash",
+      "url": "https://clashapp.co/",
+      "color": "text-orange-700",
+      "desc": "Community-driven video platform with short-form tutorials."
+    },
+    {
+      "name": "Byte (Merged with Clash)",
+      "url": "https://clashapp.co/",
+      "color": "text-indigo-500",
+      "desc": "Successor to Vine, home for creative tutorial videos."
+    },
+    {
+      "name": "KweliTV",
+      "url": "https://kweli.tv/",
+      "color": "text-red-800",
+      "desc": "Independent streaming service with cultural and educational videos."
+    },
+    {
+      "name": "Odysee (General)",
+      "url": "https://odysee.com/$/search?q=",
+      "color": "text-purple-600",
+      "desc": "Decentralized platform hosting tutorials and general videos."
+    },
+    {
+      "name": "BitChute (General)",
+      "url": "https://www.bitchute.com/search/?query=",
+      "color": "text-orange-600",
+      "desc": "Peer-to-peer video platform with tutorial content."
+    },
+    {
+      "name": "PeerTube (General)",
+      "url": "https://search.joinpeertube.org/?search=",
+      "color": "text-teal-600",
+      "desc": "Decentralized, community-hosted video network."
+    },
+    {
+      "name": "9GAG TV",
+      "url": "https://9gag.com/tv",
+      "color": "text-black",
+      "desc": "User-generated videos, memes, and how-to guides."
+    },
+    {
+      "name": "FunnyOrDie",
+      "url": "https://www.funnyordie.com/search?q=",
+      "color": "text-pink-700",
+      "desc": "Comedy video site with parodies and some tutorials."
+    },
+    {
+      "name": "VidLii",
+      "url": "https://www.vidlii.com/",
+      "color": "text-gray-500",
+      "desc": "Retro-style YouTube clone with tutorials and old-school content."
+    },
+    {
+      "name": "ZippCast",
+      "url": "https://www.zippcast.com/",
+      "color": "text-blue-600",
+      "desc": "Community video-sharing site, alternative to YouTube."
+    }
+  ],
+  "educational": [
+    {
+      "name": "Khan Academy",
+      "url": "https://www.youtube.com/results?search_query=",
+      "color": "text-green-600",
+      "desc": "Free tutorials in math, science, and more."
+    },
+    {
+      "name": "TED-Ed",
+      "url": "https://www.youtube.com/results?search_query=",
+      "color": "text-red-500",
+      "desc": "Animated educational lessons for all ages."
+    },
+    {
+      "name": "Coursera",
+      "url": "https://www.youtube.com/results?search_query=",
+      "color": "text-blue-600",
+      "desc": "University-level lectures and tutorials from top institutions."
+    },
+    {
+      "name": "edX",
+      "url": "https://www.youtube.com/results?search_query=",
+      "color": "text-purple-600",
+      "desc": "Free online courses & lectures from universities worldwide."
+    },
+    {
+      "name": "Udemy",
+      "url": "https://www.youtube.com/results?search_query=",
+      "color": "text-orange-600",
+      "desc": "Affordable online tutorials across multiple subjects."
+    },
+    {
+      "name": "FutureLearn",
+      "url": "https://www.futurelearn.com/courses/search?q=",
+      "color": "text-pink-600",
+      "desc": "Courses and video lectures from global universities."
+    },
+    {
+      "name": "Skillshare",
+      "url": "https://www.skillshare.com/search?query=",
+      "color": "text-teal-600",
+      "desc": "Creative tutorials in design, photography, and business."
+    },
+    {
+      "name": "LinkedIn Learning",
+      "url": "https://www.linkedin.com/learning/search?keywords=",
+      "color": "text-blue-700",
+      "desc": "Professional courses in business, tech, and creative fields."
+    },
+    {
+      "name": "MIT OpenCourseWare",
+      "url": "https://ocw.mit.edu/search/?q=",
+      "color": "text-red-600",
+      "desc": "Free MIT lectures and courses in multiple disciplines."
+    },
+    {
+      "name": "Harvard Online",
+      "url": "https://online-learning.harvard.edu/course-search?keyword=",
+      "color": "text-crimson-600",
+      "desc": "Harvard University\u2019s online lectures and tutorials."
+    },
+    {
+      "name": "Stanford Online",
+      "url": "https://online.stanford.edu/courses?search_api_fulltext=",
+      "color": "text-red-700",
+      "desc": "Stanford University\u2019s free and paid online courses."
+    },
+    {
+      "name": "Open Yale Courses",
+      "url": "https://oyc.yale.edu/",
+      "color": "text-indigo-600",
+      "desc": "Free video and audio courses from Yale professors."
+    },
+    {
+      "name": "Academic Earth",
+      "url": "https://academicearth.org/",
+      "color": "text-blue-400",
+      "desc": "Collection of free online video courses from universities."
+    },
+    {
+      "name": "OpenLearn (Open University)",
+      "url": "https://www.open.edu/openlearn/search-results?search=",
+      "color": "text-purple-700",
+      "desc": "Free educational video courses from The Open University."
+    },
+    {
+      "name": "Saylor Academy",
+      "url": "https://learn.saylor.org/course/index.php?search=",
+      "color": "text-green-700",
+      "desc": "Nonprofit with hundreds of free online tutorials."
+    },
+    {
+      "name": "Alison",
+      "url": "https://alison.com/courses?query=",
+      "color": "text-green-500",
+      "desc": "Free online learning platform with certifications."
+    },
+    {
+      "name": "National Geographic Education",
+      "url": "https://www.youtube.com/results?search_query=National+Geographic+Education",
+      "color": "text-yellow-600",
+      "desc": "Educational videos on science, history, and geography."
+    },
+    {
+      "name": "BBC Learning",
+      "url": "https://www.bbc.co.uk/learningenglish/search/?q=",
+      "color": "text-blue-500",
+      "desc": "BBC videos and resources for learning English and subjects."
+    },
+    {
+      "name": "CrashCourse",
+      "url": "https://www.youtube.com/user/crashcourse/search?query=",
+      "color": "text-red-400",
+      "desc": "YouTube\u2019s most popular educational video channel."
+    },
+    {
+      "name": "Big Think",
+      "url": "https://www.youtube.com/user/bigthink/search?query=",
+      "color": "text-gray-800",
+      "desc": "Expert interviews and knowledge-sharing tutorials."
+    },
+    {
+      "name": "Veritasium",
+      "url": "https://www.youtube.com/user/1veritasium/search?query=",
+      "color": "text-black",
+      "desc": "Science and engineering explained through videos."
+    },
+    {
+      "name": "MinutePhysics",
+      "url": "https://www.youtube.com/user/minutephysics/search?query=",
+      "color": "text-yellow-700",
+      "desc": "Quick, animated videos explaining physics concepts."
+    },
+    {
+      "name": "National Programme on Technology Enhanced Learning (NPTEL, India)",
+      "url": "https://nptel.ac.in/courses",
+      "color": "text-orange-700",
+      "desc": "India\u2019s largest collection of engineering & science video lectures."
+    },
+    {
+      "name": "Academic Torrents (Lecture videos)",
+      "url": "https://academictorrents.com/browse.php?cat=14",
+      "color": "text-blue-600",
+      "desc": "Repository for sharing academic lecture videos and tutorials."
+    },
+    {
+      "name": "YouTube Edu",
+      "url": "https://www.youtube.com/education",
+      "color": "text-red-600",
+      "desc": "YouTube\u2019s dedicated hub for educational videos."
+    },
+    {
+      "name": "Coursera",
+      "url": "https://www.coursera.org/courses?query=",
+      "color": "text-blue-600",
+      "desc": "University-level lectures and tutorials from top institutions."
+    },
+    {
+      "name": "edX",
+      "url": "https://www.edx.org/search?q=",
+      "color": "text-purple-600",
+      "desc": "Free online courses & lectures from universities worldwide."
+    },
+    {
+      "name": "Udemy",
+      "url": "https://www.udemy.com/courses/search/?q=",
+      "color": "text-orange-600",
+      "desc": "Affordable online tutorials across multiple subjects."
+    }
+  ],
+  "decentralized": [
+    {
+      "name": "Odysee",
+      "url": "https://odysee.com/$/search?q=",
+      "color": "text-purple-600",
+      "desc": "Blockchain-based platform built on LBRY, popular for tutorials and tech content."
+    },
+    {
+      "name": "BitChute",
+      "url": "https://www.bitchute.com/search/?query=",
+      "color": "text-orange-600",
+      "desc": "Peer-to-peer video hosting platform focused on alternative and independent content."
+    },
+    {
+      "name": "PeerTube",
+      "url": "https://search.joinpeertube.org/?search=",
+      "color": "text-teal-600",
+      "desc": "Open-source, decentralized video platform where anyone can host their own instance."
+    },
+    {
+      "name": "DTube",
+      "url": "https://d.tube/#!/s/",
+      "color": "text-red-500",
+      "desc": "Decentralized video platform built on blockchain (STEEM/IPFS)."
+    },
+    {
+      "name": "3Speak",
+      "url": "https://3speak.tv/watch?v=",
+      "color": "text-blue-600",
+      "desc": "Free-speech-focused decentralized video hosting platform powered by Hive blockchain."
+    },
+    {
+      "name": "LBRY",
+      "url": "https://lbry.com/",
+      "color": "text-green-600",
+      "desc": "Open protocol for decentralized publishing, powering Odysee and similar apps."
+    },
+    {
+      "name": "BitTube",
+      "url": "https://bittube.video/search?q=",
+      "color": "text-indigo-600",
+      "desc": "Blockchain video platform with crypto rewards for creators and viewers."
+    },
+    {
+      "name": "Theta.tv",
+      "url": "https://www.theta.tv/search?query=",
+      "color": "text-yellow-600",
+      "desc": "Blockchain-based streaming platform where users earn tokens for sharing bandwidth."
+    },
+    {
+      "name": "DLive",
+      "url": "https://dlive.tv/",
+      "color": "text-pink-600",
+      "desc": "Blockchain live-streaming platform, now integrated with BitTorrent."
+    },
+    {
+      "name": "Flote",
+      "url": "https://flote.app/",
+      "color": "text-gray-700",
+      "desc": "Decentralized social media + video platform supporting free expression."
+    },
+    {
+      "name": "Minds",
+      "url": "https://www.minds.com/search?q=",
+      "color": "text-cyan-600",
+      "desc": "Open-source social media platform with video hosting powered by crypto rewards."
+    },
+    {
+      "name": "BitVideo",
+      "url": "https://bitvideo.io/",
+      "color": "text-black",
+      "desc": "Bitcoin-based decentralized video platform for tutorials and entertainment."
+    },
+    {
+      "name": "Cos.TV",
+      "url": "https://cos.tv/search?q=",
+      "color": "text-blue-500",
+      "desc": "Blockchain video platform rewarding users with Contentos (COS) tokens."
+    }
+  ],
+  "gaming": [
+    {
+      "name": "Twitch",
+      "url": "https://www.twitch.tv/search?term=",
+      "color": "text-purple-700",
+      "desc": "The largest live streaming platform for gaming, tutorials, and esports."
+    },
+    {
+      "name": "Trovo",
+      "url": "https://trovo.live/s/",
+      "color": "text-green-700",
+      "desc": "New live streaming platform focused on gamers and creators."
+    },
+    {
+      "name": "Caffeine",
+      "url": "https://www.caffeine.tv/",
+      "color": "text-blue-700",
+      "desc": "Interactive live streaming with gaming and creative tutorials."
+    },
+    {
+      "name": "YouTube Gaming",
+      "url": "https://www.youtube.com/results?search_query=gaming+",
+      "color": "text-red-600",
+      "desc": "YouTube\u2019s dedicated section for gaming live streams and tutorials."
+    },
+    {
+      "name": "Facebook Gaming",
+      "url": "https://www.facebook.com/gaming/search/?q=",
+      "color": "text-blue-600",
+      "desc": "Facebook\u2019s gaming hub with streams, tutorials, and esports events."
+    },
+    {
+      "name": "Steam Broadcasting",
+      "url": "https://store.steampowered.com/streaming/",
+      "color": "text-gray-800",
+      "desc": "Integrated live game streaming platform within Steam."
+    },
+    {
+      "name": "Nimo TV",
+      "url": "https://www.nimo.tv/search?key=",
+      "color": "text-green-600",
+      "desc": "Popular in Asia and LATAM for live streaming games and tutorials."
+    },
+    {
+      "name": "Huya",
+      "url": "https://www.huya.com/search/?hmsr=",
+      "color": "text-orange-600",
+      "desc": "Chinese gaming live streaming platform with esports and tutorials."
+    },
+    {
+      "name": "Douyu",
+      "url": "https://www.douyu.com/search/",
+      "color": "text-yellow-600",
+      "desc": "One of the largest Chinese live game streaming platforms."
+    },
+    {
+      "name": "GoodGame.ru",
+      "url": "https://goodgame.ru/search/",
+      "color": "text-indigo-600",
+      "desc": "Russian live streaming platform focused on games and esports."
+    },
+    {
+      "name": "AfreecaTV (Gaming)",
+      "url": "https://www.afreecatv.com/",
+      "color": "text-green-700",
+      "desc": "Korean live streaming site popular for gaming and esports."
+    },
+    {
+      "name": "DLive (Gaming)",
+      "url": "https://dlive.tv/",
+      "color": "text-yellow-700",
+      "desc": "Blockchain-powered streaming platform with gaming focus."
+    },
+    {
+      "name": "Hitbox (Legacy, now Smashcast)",
+      "url": "https://www.smashcast.tv/",
+      "color": "text-red-500",
+      "desc": "Former rival to Twitch, merged into Smashcast, gaming content focused."
+    },
+    {
+      "name": "Smashcast",
+      "url": "https://www.smashcast.tv/",
+      "color": "text-purple-600",
+      "desc": "Gaming live streaming platform born from Hitbox and Azubu merger."
+    },
+    {
+      "name": "Vimm.tv",
+      "url": "https://vimm.tv/",
+      "color": "text-pink-600",
+      "desc": "Community-driven live streaming platform with gaming tutorials."
+    },
+    {
+      "name": "Challonge TV",
+      "url": "https://challonge.com/",
+      "color": "text-gray-700",
+      "desc": "Esports tournament and gaming tutorial streaming hub."
+    },
+    {
+      "name": "Game Jolt",
+      "url": "https://gamejolt.com/watch",
+      "color": "text-teal-600",
+      "desc": "Indie game community with streaming and tutorials."
+    }
+  ],
+  "regional": [
+    {
+      "name": "Bilibili",
+      "url": "https://search.bilibili.com/all?keyword=",
+      "color": "text-pink-600",
+      "desc": "Popular in China for tutorials, anime, gaming, and educational content."
+    },
+    {
+      "name": "Youku",
+      "url": "https://so.youku.com/search_video/q_",
+      "color": "text-red-600",
+      "desc": "China\u2019s YouTube alternative with a wide range of tutorials."
+    },
+    {
+      "name": "Tencent Video",
+      "url": "https://v.qq.com/x/search/?q=",
+      "color": "text-blue-500",
+      "desc": "Chinese video streaming giant with entertainment and educational content."
+    },
+    {
+      "name": "iQIYI",
+      "url": "https://so.iqiyi.com/so/q_",
+      "color": "text-green-600",
+      "desc": "China\u2019s leading online video platform with tutorials and shows."
+    },
+    {
+      "name": "MX Player",
+      "url": "https://www.mxplayer.in/search?q=",
+      "color": "text-blue-600",
+      "desc": "Indian platform with movies, TV shows, and tutorial videos."
+    },
+    {
+      "name": "Moj",
+      "url": "https://mojapp.in/",
+      "color": "text-orange-500",
+      "desc": "Indian short video app featuring DIY and tutorials."
+    },
+    {
+      "name": "ShareChat",
+      "url": "https://sharechat.com/trending?query=",
+      "color": "text-yellow-600",
+      "desc": "Regional Indian language video-sharing platform with tutorials."
+    },
+    {
+      "name": "Chingari",
+      "url": "https://chingari.io/",
+      "color": "text-teal-600",
+      "desc": "Indian short-video platform similar to TikTok."
+    },
+    {
+      "name": "Rutube",
+      "url": "https://rutube.ru/search/?query=",
+      "color": "text-red-700",
+      "desc": "Russia\u2019s largest video-sharing and tutorial platform."
+    },
+    {
+      "name": "VK Video",
+      "url": "https://vk.com/video?q=",
+      "color": "text-blue-700",
+      "desc": "Russia\u2019s VK social network with an integrated video platform."
+    },
+    {
+      "name": "Niconico",
+      "url": "https://www.nicovideo.jp/search/",
+      "color": "text-gray-800",
+      "desc": "Japanese video-sharing site popular for topic-based tutorials."
+    },
+    {
+      "name": "Line Live",
+      "url": "https://live.line.me/search?query=",
+      "color": "text-green-700",
+      "desc": "Japanese live-streaming platform with tutorials and entertainment."
+    },
+    {
+      "name": "AfreecaTV",
+      "url": "https://www.afreecatv.com/",
+      "color": "text-green-600",
+      "desc": "Korean live streaming with strong focus on gaming and tutorials."
+    },
+    {
+      "name": "KakaoTV",
+      "url": "https://tv.kakao.com/search?q=",
+      "color": "text-yellow-700",
+      "desc": "South Korean video platform with user-generated content and tutorials."
+    },
+    {
+      "name": "Shahid",
+      "url": "https://shahid.mbc.net/",
+      "color": "text-purple-800",
+      "desc": "Middle East\u2019s largest video platform with shows and tutorials."
+    },
+    {
+      "name": "YallaShoot (Sports + Tutorials)",
+      "url": "https://yallashoot.com/",
+      "color": "text-red-600",
+      "desc": "Popular in the Arab region for live streams and video content."
+    },
+    {
+      "name": "iROKOtv",
+      "url": "https://irokotv.com/",
+      "color": "text-red-500",
+      "desc": "African movies and regional video tutorials."
+    },
+    {
+      "name": "Showmax",
+      "url": "https://www.showmax.com/",
+      "color": "text-blue-600",
+      "desc": "Streaming service popular in Africa, with regional tutorials and shows."
+    },
+    {
+      "name": "Globoplay",
+      "url": "https://globoplay.globo.com/busca/?q=",
+      "color": "text-red-600",
+      "desc": "Brazil\u2019s biggest streaming service with tutorials, shows, and news."
+    },
+    {
+      "name": "Hotstar (Disney+ Hotstar)",
+      "url": "https://www.hotstar.com/in/explore/search?q=",
+      "color": "text-orange-600",
+      "desc": "India\u2019s leading platform with TV shows, sports, and tutorials."
+    },
+    {
+      "name": "Tubi (Fox)",
+      "url": "https://tubitv.com/search/",
+      "color": "text-gray-600",
+      "desc": "Popular free streaming platform in the US with regional reach."
+    },
+    {
+      "name": "Viu",
+      "url": "https://www.viu.com/ott/search?q=",
+      "color": "text-pink-500",
+      "desc": "Popular in Asia and Middle East for entertainment and tutorial videos."
+    },
+    {
+      "name": "WeTV",
+      "url": "https://wetv.vip/search?q=",
+      "color": "text-blue-500",
+      "desc": "Tencent\u2019s global streaming service with Asian tutorials and shows."
+    },
+    {
+      "name": "Iqra TV",
+      "url": "https://www.iqra.tv/",
+      "color": "text-green-500",
+      "desc": "Islamic-focused TV and educational video platform in the Middle East."
+    }
+  ],
+  "professional": [
+    {
+      "name": "Wistia",
+      "url": "https://wistia.com/search?q=",
+      "color": "text-blue-500",
+      "desc": "Professional video hosting for businesses and marketing tutorials."
+    },
+    {
+      "name": "Brightcove",
+      "url": "https://www.brightcove.com/en/",
+      "color": "text-purple-600",
+      "desc": "Enterprise video platform with corporate training tutorials."
+    },
+    {
+      "name": "Panopto",
+      "url": "https://www.panopto.com/search/?q=",
+      "color": "text-green-600",
+      "desc": "Lecture capture & corporate learning video platform."
+    },
+    {
+      "name": "Kaltura",
+      "url": "https://corp.kaltura.com/",
+      "color": "text-red-600",
+      "desc": "Enterprise-grade video platform for education & training."
+    },
+    {
+      "name": "Vimeo OTT",
+      "url": "https://vimeo.com/ott",
+      "color": "text-blue-400",
+      "desc": "Subscription-based video hosting for courses & tutorials."
+    }
+  ],
+  "specialized": [
+    {
+      "name": "ChefTube",
+      "url": "https://www.youtube.com/results?search_query=cooking+recipes",
+      "color": "text-red-500",
+      "desc": "Cooking and recipe tutorials."
+    },
+    {
+      "name": "FitnessBlender",
+      "url": "https://www.youtube.com/user/FitnessBlender",
+      "color": "text-green-500",
+      "desc": "Free workout and fitness tutorial videos."
+    },
+    {
+      "name": "Codecademy",
+      "url": "https://www.youtube.com/results?search_query=codecademy",
+      "color": "text-indigo-600",
+      "desc": "Programming tutorials and coding lessons."
+    },
+    {
+      "name": "DIY Network",
+      "url": "https://www.diynetwork.com/how-to",
+      "color": "text-orange-600",
+      "desc": "Do-It-Yourself video tutorials for home improvement."
+    },
+    {
+      "name": "Craftsy",
+      "url": "https://www.craftsy.com/",
+      "color": "text-pink-600",
+      "desc": "Video tutorials for crafts, sewing, and design projects."
+    }
+  ],
+  "social_media": [
+    {
+      "name": "Telegram",
+      "url": "https://t.me/s/",
+      "color": "text-blue-500",
+      "desc": "Messaging app with channels hosting video tutorials and educational content."
+    },
+    {
+      "name": "Reddit",
+      "url": "https://www.reddit.com/search/?q=",
+      "color": "text-orange-500",
+      "desc": "Communities sharing tutorials, guides, and video-based learning."
+    },
+    {
+      "name": "Discord",
+      "url": "https://discord.com/",
+      "color": "text-purple-500",
+      "desc": "Servers often host tutorials, livestreams, and video guides."
+    },
+    {
+      "name": "Quora Videos",
+      "url": "https://www.quora.com/search?q=",
+      "color": "text-red-600",
+      "desc": "Q&A platform with embedded videos and tutorials shared by users."
+    },
+    {
+      "name": "LinkedIn Learning",
+      "url": "https://www.linkedin.com/learning/search?keywords=",
+      "color": "text-blue-700",
+      "desc": "Professional video tutorials across industries, hosted on LinkedIn."
+    }
+  ]
+}
